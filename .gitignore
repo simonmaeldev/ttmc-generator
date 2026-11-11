@@ -1,0 +1,23 @@
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Données locales
+data/
+output/
+config.json
+prompt.txt
+usage.json
+
+# Logs
+ttmc.log
+
+# Fichiers générés
+*.pdf
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
